@@ -1,4 +1,6 @@
-<h1>Hi, I'm Catherine! <br/>
+<h1>Hi, I'm Catherine! <br/> </h1>
+
+
 - 👩🏻‍💻 Business and Marketing Analyst sharing my journey and learnings.
 - 👩🏻‍🎓 Business Analytics Master from Hult International Business School, SF Campus
 - 💰 Exited my Stationery business in 2022
