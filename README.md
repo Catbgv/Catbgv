@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Catherine
+<h1>Hi, I'm Catherine! <br/>
 - 👩🏻‍💻 Business and Marketing Analyst sharing my journey and learnings.
 - 👩🏻‍🎓 Business Analytics Master from Hult International Business School, SF Campus
 - 💰 Exited my Stationery business in 2022
@@ -35,3 +35,4 @@
 [![](https://visitcount.itsvg.in/api?id=catbgv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
